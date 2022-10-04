@@ -1,0 +1,38 @@
+.wall-container{
+      background: linear-gradient(to bottom right,#33ffcc,#ff99cc);
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+
+}
+.head{
+      color: black;
+      font-family: roboto;
+      font-size: 32px;
+      font-weight: bold;
+}
+.para{
+      color: black;
+      font-family: roboto;
+      font-size: 16px;
+      font-weight: bold;
+
+}
+.wall-box{
+      text-align: center;
+      justify-content:end;
+      margin-top: 45px;
+
+
+}
+.paras{
+      padding: 0%;
+}
+.img-box{
+      padding-inline: 14px;
+}
+.image{
+      background: transparent;
+      height: 100vh;
+      width: 100vh;
+}
